@@ -2,9 +2,9 @@
 
 *First of all, I want to inform you that this project has undergone some modifications (optimization, bug fixing) after the game jam.*
 
-##Presentation
+## Presentation
 
-**Outland** is a **2D** game that was made on the occasion of my participation in 2022 in my first game Jam. I did it alone for a weekend. The objective of this game jam was to make a game based on the sea, the ocean and in which the enemies die at once. For this I made a Unity 2D game.
+**Outland** is a **2D** game that was made on the occasion of my participation in 2022 in my first game Jam. I did it alone for a weekend. The objective of this game jam was to make a game based on the sea, the ocean and in which the enemies die at once. For this I made a **Unity 2D** game.
 
 In this repository is all the scripts I made.
 
