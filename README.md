@@ -17,5 +17,5 @@ And download the folder corresponding to your operating system (*windows/mac/lin
 <br>
 Inside this folder you will find an executable that will allow you to launch the game.
 
-##Author
-* Rémy Kinzelin
+## Author
+* Rémy Kinzelin 
