@@ -17,5 +17,13 @@ And download the folder corresponding to your operating system (*windows/mac/lin
 <br>
 Inside this folder you will find an executable that will allow you to launch the game.
 
+## Control  
+
+    - Right click: single sword attack  
+
+    - Left click: pointing sword attack  
+
+    - Arrow or key (Z,Q,S,D): movement of the character 
+
 ## Author
 * Rémy Kinzelin 
